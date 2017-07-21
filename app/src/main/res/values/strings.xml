@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SmartBus</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading_data">Loading data...</string>
+    <string name="price">price</string>
+    <string name="nothing_found">Nothing found. Try another request</string>
+    <string name="date_picker_title">Choose dates to search</string>
+    <string name="second_date_less_error">Second date must be bigger</string>
+    <string name="from_date">From date</string>
+    <string name="to_date">To date</string>
+    <string name="invalid_request">Invalid request</string>
+    <string name="not_found">Not found</string>
+    <string name="update_fail">update fail</string>
+</resources>
